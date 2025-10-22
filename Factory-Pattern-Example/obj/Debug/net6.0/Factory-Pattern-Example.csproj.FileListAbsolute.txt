@@ -1,0 +1,14 @@
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\bin\Debug\net6.0\Factory-Pattern-Example.exe
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\bin\Debug\net6.0\Factory-Pattern-Example.deps.json
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\bin\Debug\net6.0\Factory-Pattern-Example.runtimeconfig.json
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\bin\Debug\net6.0\Factory-Pattern-Example.dll
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\bin\Debug\net6.0\Factory-Pattern-Example.pdb
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\Factory-Pattern-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\Factory-Pattern-Example.AssemblyInfoInputs.cache
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\Factory-Pattern-Example.AssemblyInfo.cs
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\Factory-Pattern-Example.csproj.CoreCompileInputs.cache
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\Factory-Pattern-Example.dll
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\refint\Factory-Pattern-Example.dll
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\Factory-Pattern-Example.pdb
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\Factory-Pattern-Example.genruntimeconfig.cache
+C:\NMU work\ONT401\Factory Pattern\Factory-Pattern-Example\Factory-Pattern-Example\obj\Debug\net6.0\ref\Factory-Pattern-Example.dll
